@@ -27,8 +27,5 @@
   - Saves time by allowing multitasking while listening to documents.  
   - Demonstrates practical integration of file handling and speech synthesis in Python.
 
----
-
 ✨ In short: *Your PDF Reader takes a PDF file, extracts text from a chosen page, and speaks it aloud using text-to-speech.*  
 
-Would you like me to also write a **short GitHub README-style summary** (with installation steps and usage example) so you can directly add it to your repository?
