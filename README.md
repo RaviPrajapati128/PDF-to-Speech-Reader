@@ -2,7 +2,7 @@
 
 
 
-📄 PDF-to-Speech Reader 
+📄 PDF_Reader 
 
 - **Purpose**:  
   A simple Python-based tool that allows users to listen to the contents of a PDF file by converting text into speech. It’s designed for accessibility and convenience, helping users consume documents without needing to read them manually.
