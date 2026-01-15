@@ -1,3 +1,0 @@
-_espeak
-ffmpeg
-libespeak1
