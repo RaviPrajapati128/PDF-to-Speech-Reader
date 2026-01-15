@@ -1,8 +1,7 @@
 import streamlit as st
 import pyttsx3  
-from pyttsx3.voice import Voice
 from PyPDF2 import PdfReader  
-from . import _espeak
+
 
 st.title("📘 PDF Reader")
 
