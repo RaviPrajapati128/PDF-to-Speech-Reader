@@ -1,3 +1,7 @@
+<img width="1349" height="592" alt="pdf_reader1" src="https://github.com/user-attachments/assets/416634d7-322f-483e-bf19-a7ee480441e9" />
+
+
+
 📄 PDF-to-Speech Reader 
 
 - **Purpose**:  
