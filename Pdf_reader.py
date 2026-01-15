@@ -2,7 +2,6 @@ import streamlit as st
 import pyttsx3  
 from PyPDF2 import PdfReader  
 
-
 st.title("📘 PDF Reader")
 
 file = st.file_uploader(" ",["pdf"])
@@ -17,7 +16,7 @@ def con(file):
     pages = reader.pages                    
     st.write("You are on Page:",i+1)
     
-    melo = pyttsx3.init(driverName="espeak")     
+    melo = pyttsx3.init()     
     page = reader.pages[i]    
     text = page.extract_text()
     
